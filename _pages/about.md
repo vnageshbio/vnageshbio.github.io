@@ -1,29 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Currently, as a Senior Data Scientist at Mammoth Biosciences, I’m fortunate enough to lead efforts around CRISPR-based gene editing tools. One of my proudest moments was when my team’s work contributed to a significant increase in the engagement of stakeholders with data tools by 50%. This experience taught me the value of collaboration and how diverse perspectives can lead to innovative solutions.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Before joining Mammoth Biosciences, I honed my skills at Arc Bio as a Bioinformatics Analyst where I played a key role in standardizing processes for next-gen sequencing projects aimed at identifying microbes in humans. My work helped streamline product launches and improve the accuracy of our analyses—contributing to an increase in our client satisfaction scores by 25%. Each role along the way has shaped my analytical abilities while deepening my understanding of biological systems.
 
-## Features
+My academic background includes dual Master’s degrees in Bioinformatics and Biophysics from San Jose State University and National Institute of Mental Health & Neuro Sciences respectively. These experiences not only equipped me with technical skills but also instilled a lifelong love for continuous learning—whether it's through reading scientific literature or exploring new programming languages like R and Java.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Outside of work, I enjoy mentoring aspiring scientists through local workshops focused on bioinformatics techniques. It’s rewarding to share knowledge with others who are just starting their journeys; it keeps me grounded and reminds me why I fell in love with this field in the first place.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Skills: 
+- Bioinformatics
+- Machine Learning
+- Statistical Analysis
+- Next Generation Sequencing (NGS)
+- CRISPR Technology
+- Data Analysis
