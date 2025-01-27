@@ -7,5 +7,6 @@ I thrive at the intersection of data science and biology, where I’ve spent ove
 
 My journey began with a solid foundation in biophysics and evolved into a passion for using computational tools to tackle some of biology's toughest puzzles. 
 
-Every project I've worked on has been driven by my desire to contribute to advancements in therapeutics and diagnostics—it's thrilling to think that my work could have a real impact on people's lives.
+Every project I've worked on has been driven by my desire to contribute to advancements in therapeutics and diagnostics.
+It's thrilling to think that my work could have a real impact on people's lives.
 
