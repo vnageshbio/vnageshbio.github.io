@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bio in Bio
+name: Vaishnavi Nagesh
 
 # Name of the author
 author: Vaishnavi Nagesh
 
 # Short bio or description (displayed in the header)
-description: My trials and tribulations with Math and Biology
+description: Data Scientist in Bioinformatics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/V.png
@@ -29,19 +29,7 @@ footer-links:
   linkedin: https://www.linkedin.com/in/vnagesh/
   pinterest:
   rss: rss
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: 
-
-
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
@@ -86,7 +74,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 4
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
